@@ -5,7 +5,7 @@
     ·
     <a href="https://scholars.cityu.edu.hk/en/persons/zzhang452/"><strong>Zhiyuan ZHANG</strong></a>
     ·
-    <a href="."><strong>Tang RUI</strong></a>
+    <a href="."><strong>Rui TANG</strong></a>
     ·
     <a href="https://hongbofu.people.ust.hk/"><strong>Hongbo FU<strong></a>
     ·
