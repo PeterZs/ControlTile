@@ -17,6 +17,9 @@
   </div>
 </p>
 
+[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.22945)
+
+
 This repository contains the code for the paper Controllable Texture Tiling with Transformed RoPE-Enhanced Diffusion Models , accepted as a conference paper in SIGGRAPH 2026.
 
 ## Setup
