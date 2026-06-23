@@ -11,13 +11,21 @@
     ·
     <a href="https://scholars.cityu.edu.hk/en/persons/jingliao/"><strong>Jing LIAO*</strong></a>
   </p>
+        
+  <p align="center">
+  <a href="https://arxiv.org/abs/2606.22945">
+    <img src="https://img.shields.io/badge/arXiv-paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" />
+  </a>
+  <a href="https://modelscope.cn/models/heika94/control-tile/">
+    <img src="https://img.shields.io/badge/ModelScope-model-FFD21E?style=for-the-badge&logo=modelscope&logoColor=white" alt="modelscope">
+  </a>
+  </p>
+
   <h2 align="center">SIGGRAPH 2026 (Conference)</h2>
   <div align="center">
     <img src="assets/teaser.jpg", width="80%">
   </div>
 </p>
-
-[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2606.22945)
 
 
 This repository contains the code for the paper Controllable Texture Tiling with Transformed RoPE-Enhanced Diffusion Models , accepted as a conference paper in SIGGRAPH 2026.
