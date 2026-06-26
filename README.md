@@ -96,7 +96,15 @@ We would like to express our sincere gratitude to **Manycore Tech Inc.** for pro
 ## Citation
 
 ```bibtex
-TBD
+@misc{huang2026controllabletexturetilingtransformed,
+      title={Controllable Texture Tiling with Transformed RoPE-Enhanced Diffusion Models}, 
+      author={Junrong Huang and Zhiyuan Zhang and Rui Tang and Hongbo Fu and Jnig Liao},
+      year={2026},
+      eprint={2606.22945},
+      archivePrefix={arXiv},
+      primaryClass={cs.GR},
+      url={https://arxiv.org/abs/2606.22945}, 
+}
 ```
 
 
